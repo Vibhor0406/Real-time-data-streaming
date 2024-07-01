@@ -15,4 +15,6 @@ Everything is containerized using Docker for ease of deployment and scalability.
 ## System Architecture
 
 The system architecture is designed to be modular and scalable, ensuring each component can be developed, tested, and deployed independently.
+
 ---
+
